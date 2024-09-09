@@ -44,7 +44,7 @@
 ## 📫 Contact
 
 - Email: danielmesfin331@gmail.com
-- LinkedIn: [linkedin.com/in/danielmesfin](https://linkedin.com/in/danielmesfin)
+- LinkedIn: [https://linkedin.com/in/danielmesfin](https://www.linkedin.com/in/daniel-mesfin-0b8b13293/)
 - GitHub: [github.com/danielmesfin](https://github.com/danielmesfin)
  ## 🚀 Favorite Frameworks
 
