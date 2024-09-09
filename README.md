@@ -28,7 +28,7 @@
 
 ## 🚀 Experience
 
-- **Software Engineer at XYZ Technologies**
+- **Software Engineer at Kuraz Technologies**
   - Worked on a diverse range of projects, from mobile app development to cloud infrastructure.
   - Led a team of developers in delivering scalable applications for various industries.
 
@@ -38,7 +38,7 @@
 
 ## 🎓 Education
 
-- **BSc in Software Engineering ** – Haramaya University
+-  BSc in Software Engineering at – Haramaya University
 - **Certified AWS Solutions Architect**
 
 ## 📫 Contact
