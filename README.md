@@ -13,37 +13,50 @@
 - **Methodologies:** Agile, Scrum, TDD (Test-Driven Development), RESTful API Development
 
 ## 🌟 Projects
+### 1. ** Tiktok Clone App**
+   - Developed an interactive tiktok clone  application using Flutter, Firebase, Firesoter and Getx State Management .
+   - Integrated user authentication and quiz management.
+### 2. **Mobile Quiz App**
+   - Developed an interactive mobile quiz application using Flutter, Node .
+   - Integrated user authentication and quiz management.
+   - Using MongoDB DataBase
 
-### 1. **Mobile Quiz App**
-   - Developed an interactive mobile quiz application using Flutter, Firebase, and Firestore.
-   - Integrated user authentication and real-time data updates.
-
-### 2. **Task Management App**
+### 3. **Task Management App**
    - Built a task management application for efficient team collaboration.
    - Implemented notifications for task deadlines and reminders using `flutter_local_notifications`.
 
-### 3. **Car Trading Web App**
+### 4. **Car Trading Web App**
    - Designed and developed a full-stack web app for selling and trading cars.
-   - Used React for the frontend, Node.js for the backend, and MongoDB for data storage.
-
+   - Used React for the frontend, django for the backend, and Postgress DataBase for data storage.
+### 5. **Ethio File Store**
+   -Ethio File Store is a decentralized file storage system built on the Goeal Network, using blockchain technology to securely store and manage files with ownership tracking and access control.
+   -Frontend: React.js with Web3.js/Ethers.js for blockchain interaction and user interface.
+   -Backend: Solidity smart contracts on the Goeal Network for managing file ownership and permissions.
+   -Storage: Decentralized file storage (e.g., IPFS) for storing files securely.
+   -Deployment: Hardhat for smart contract development, testing, and deployment on the Goeal Network.
+### 5. **Flutter Repository**
+   -The Flutter Repository project is designed to store various custom widget components to streamline development. It serves as a library of reusable UI elements that can be quickly accessed and integrated into 
+    different projects. By developing and organizing these components, the repository simplifies the process of building consistent and efficient Flutter applications, reducing the need to recreate commonly used 
+    widgets from scratch.
 ## 🚀 Experience
 
 - **Software Engineer at Kuraz Technologies**
   - Worked on a diverse range of projects, from mobile app development to cloud infrastructure.
   - Led a team of developers in delivering scalable applications for various industries.
 
-- **Freelance Full Stack Developer**
+- **Freelance Full Stack Flutter Developer**
   - Collaborated with clients globally to build web and mobile solutions tailored to their needs.
   - Specialized in creating custom e-commerce platforms, social apps, and content management systems.
 
 ## 🎓 Education
 
 -  BSc in Software Engineering at – Haramaya University
-- **Certified AWS Solutions Architect**
+- **I am interested in having various training sessions for new and exciting technologies at different times to stay updated and expand your skills. This approach will help you keep pace with emerging trends and innovations in the tech industry.**
 
 ## 📫 Contact
 
 - Email: danielmesfin331@gmail.com
+- phone: +251930379106
 - LinkedIn: [https://linkedin.com/in/danielmesfin](https://www.linkedin.com/in/daniel-mesfin-0b8b13293/)
 - GitHub: [github.com/danielmesfin](https://github.com/danielmesfin)
  ## 🚀 Favorite Frameworks
