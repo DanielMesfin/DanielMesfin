@@ -15,7 +15,7 @@
 ## 🌟 Projects
 ### 1. Tiktok Clone App
    - Developed an interactive tiktok clone  application using Flutter, Firebase, Firesoter and Getx State Management .
-   - Integrated user authentication and quiz management.
+   - Integrated user authentication and quiz management.[Mina Store](https://github.com/DanielMesfin/MyShop)
 ### 2. **Mobile Quiz App**
    - Developed an interactive mobile quiz application using Flutter, Node .
    - Integrated user authentication and quiz management.
