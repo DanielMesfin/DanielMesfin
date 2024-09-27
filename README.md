@@ -19,25 +19,31 @@
 ### 2. Mobile Quiz App
    - Developed an interactive mobile quiz application using Flutter, Node .
    - Integrated user authentication and quiz management.
-   - Using MongoDB DataBase
+   - Using MongoDB DataBase [Quiz App](https://github.com/DanielMesfin/fullStack_Flutter_and_node_Game_app)
 
 ### 3. **Task Management App**
    - Built a task management application for efficient team collaboration.
-   - Implemented notifications for task deadlines and reminders using `flutter_local_notifications`.
+   - Implemented notifications for task deadlines and reminders using `flutter_local_notifications`.[TM](https://github.com/DanielMesfin/taskmanagmenet-)
 
 ### 4. **Car Trading Web App**
    - Designed and developed a full-stack web app for selling and trading cars.
-   - Used React for the frontend, django for the backend, and Postgress DataBase for data storage.
+   - Used React for the frontend, django for the backend, and Postgress DataBase for data storage.[CTA](https://github.com/DanielMesfin/mekinaye)
 ### 5. **Ethio File Store**
    -Ethio File Store is a decentralized file storage system built on the Goeal Network, using blockchain technology to securely store and manage files with ownership tracking and access control.
    -Frontend: React.js with Web3.js/Ethers.js for blockchain interaction and user interface.
    -Backend: Solidity smart contracts on the Goeal Network for managing file ownership and permissions.
    -Storage: Decentralized file storage (e.g., IPFS) for storing files securely.
-   -Deployment: Hardhat for smart contract development, testing, and deployment on the Goeal Network.
-### 5. **Flutter Repository**
-   -The Flutter Repository project is designed to store various custom widget components to streamline development. It serves as a library of reusable UI elements that can be quickly accessed and integrated into 
-    different projects. By developing and organizing these components, the repository simplifies the process of building consistent and efficient Flutter applications, reducing the need to recreate commonly used 
-    widgets from scratch.
+   -Deployment: Hardhat for smart contract development, testing, and deployment on the Goeal Network.[WEB 3](https://github.com/DanielMesfin/web3.0EthioDrive)
+### 6. **Flutter Repository**
+   -The Flutter Repository project is designed to store various custom widget components to streamline development. It serves as a library of reusable UI elements that can be quickly accessed and integrated into different projects. By developing and organizing these components, the repository simplifies the process of building consistent and efficient Flutter applications, reducing the need to recreate commonly used widgets from scratch.[FR]()
+
+### 7. **EthioMaps**
+- EthioMaps is a Flutter-based mobile application designed to provide users with navigation and search functionalities specific to locations in Ethiopia. The app aims to make it easy for users to explore, navigate, and search for places of interest, using real-time geolocation data and search algorithms[EM](https://github.com/DanielMesfin/EthioMaps_Flutter)
+
+  ### 8. **Esoora Resturant View **
+- Esoora Restaurant is a modern and efficient mobile application designed to streamline the food ordering experience within Ethiopia. Tailored to meet the specific needs of restaurants, cafes, and eateries, the app empowers customers to easily browse menus, customize orders, and place them directly from self serving stations, enhancing convenience and reducing wait times.[ERV](https://github.com/ethioclicks/esoora_restaurant_view)
+
+
 ## 🚀 Experience
 
 - **Software Engineer at Kuraz Technologies**
