@@ -40,8 +40,9 @@
 ### 7. **EthioMaps**
 - EthioMaps is a Flutter-based mobile application designed to provide users with navigation and search functionalities specific to locations in Ethiopia. The app aims to make it easy for users to explore, navigate, and search for places of interest, using real-time geolocation data and search algorithms[EM](https://github.com/DanielMesfin/EthioMaps_Flutter)
 
-  ### 8. **Esoora Resturant View **
+### 8. Esoora Resturant View 
 - Esoora Restaurant is a modern and efficient mobile application designed to streamline the food ordering experience within Ethiopia. Tailored to meet the specific needs of restaurants, cafes, and eateries, the app empowers customers to easily browse menus, customize orders, and place them directly from self serving stations, enhancing convenience and reducing wait times.[ERV](https://github.com/ethioclicks/esoora_restaurant_view)
+- [Play store](https://play.google.com/store/apps/details?id=com.ethioclicks.esoora_restaurant_view)
 
 
 ## 🚀 Experience
