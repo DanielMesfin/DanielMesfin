@@ -13,7 +13,7 @@
 - **Methodologies:** Agile, Scrum, TDD (Test-Driven Development), RESTful API Development
 
 ## 🌟 Projects
-### 1. ** Tiktok Clone App**
+### 1. Tiktok Clone App
    - Developed an interactive tiktok clone  application using Flutter, Firebase, Firesoter and Getx State Management .
    - Integrated user authentication and quiz management.
 ### 2. **Mobile Quiz App**
