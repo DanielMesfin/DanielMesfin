@@ -9,7 +9,7 @@
 - **Languages:** JavaScript, TypeScript, Python, Java, Dart
 - **Frameworks & Libraries:** React, Node.js, Flutter, Django, Spring Boot
 - **Databases:** PostgreSQL, MongoDB, Firebase, MySQL
-- **Tools & Platforms:** Git, Docker, Kubernetes, AWS, Google Cloud, CI/CD
+- **Tools & Platforms:** Git, Docker, Google Cloud, CI/CD
 - **Methodologies:** Agile, Scrum, TDD (Test-Driven Development), RESTful API Development
 
 ## 🌟 Projects
