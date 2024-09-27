@@ -44,7 +44,7 @@
   - Worked on a diverse range of projects, from mobile app development to cloud infrastructure.
   - Led a team of developers in delivering scalable applications for various industries.
 
-- **Freelance Full Stack Flutter Developer**
+- **Remote Full Stack Flutter Developer**
   - Collaborated with clients globally to build web and mobile solutions tailored to their needs.
   - Specialized in creating custom e-commerce platforms, social apps, and content management systems.
 
