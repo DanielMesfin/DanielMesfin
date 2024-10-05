@@ -13,6 +13,9 @@
 - **Methodologies:** Agile, Scrum, TDD (Test-Driven Development), RESTful API Development
 
 ## 🌟 Projects
+### 0. Hinde Restaurant Freelance
+   - Hinde Restaurant is a Flutter-based mobile application aimed at providing an efficient platform for restaurant management and customer engagement. The app allows restaurant owners to manage menus, track orders, and offer an enhanced user experience for customers. Key features include
+   - [Hinde Restaurant](https://github.com/DanielMesfin/Indian-Restaurant-and-Sweet)
 ### 1. Tiktok Clone App
    - Developed an interactive tiktok clone  application using Flutter, Firebase, Firesoter and Getx State Management .
    - Integrated user authentication and quiz management.[Mina Store](https://github.com/DanielMesfin/MyShop)
