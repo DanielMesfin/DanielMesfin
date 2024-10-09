@@ -38,7 +38,7 @@
    -Storage: Decentralized file storage (e.g., IPFS) for storing files securely.
    -Deployment: Hardhat for smart contract development, testing, and deployment on the Goeal Network.[WEB 3](https://github.com/DanielMesfin/web3.0EthioDrive)
 ### 6. **Flutter Repository**
-   -The Flutter Repository project is designed to store various custom widget components to streamline development. It serves as a library of reusable UI elements that can be quickly accessed and integrated into different projects. By developing and organizing these components, the repository simplifies the process of building consistent and efficient Flutter applications, reducing the need to recreate commonly used widgets from scratch.[FR]()
+   -The Flutter Repository project is designed to store various custom widget components to streamline development. It serves as a library of reusable UI elements that can be quickly accessed and integrated into different projects. By developing and organizing these components, the repository simplifies the process of building consistent and efficient Flutter applications, reducing the need to recreate commonly used widgets from scratch.[FR](https://github.com/DanielMesfin/Flutter-widget-Component)
 
 ### 7. **EthioMaps**
 - EthioMaps is a Flutter-based mobile application designed to provide users with navigation and search functionalities specific to locations in Ethiopia. The app aims to make it easy for users to explore, navigate, and search for places of interest, using real-time geolocation data and search algorithms[EM](https://github.com/DanielMesfin/EthioMaps_Flutter)
